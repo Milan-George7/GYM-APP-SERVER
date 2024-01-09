@@ -1,0 +1,90 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Push Up",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/bodybuilder-doing-push-ups-royalty-free-image-1636040776.jpg?crop=0.668xw:1.00xh;0.187xw,0&resize=1200:*",
+      "link": "https://www.youtube.com/embed/IODxDxX7oi4"
+    },
+    {
+      "id": "2",
+      "caption": "Pull Up",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/mh0418-fit-pul-01-1558551798.jpg?crop=0.749xw:1.00xh;0.251xw,0&resize=1200:*",
+      "link": "https://www.youtube.com/embed/eGo4IYlbE5g"
+    },
+    {
+      "id": "3",
+      "caption": "Sit Ups",
+      "url": "https://staticg.sportskeeda.com/editor/2022/05/70996-16533137309303-1920.jpg",
+      "link": "https://www.youtube.com/embed/jDwoBqPH0jk"
+    },
+    {
+      "id": "4",
+      "caption": "Squats",
+      "url": "https://www.tonal.com/wp-content/uploads/2023/03/Bodyweight-Squat.jpg?resize=576%2C576",
+      "link": "https://www.youtube.com/embed/YaXPRqUwItQ"
+    },
+    {
+      "id": "5",
+      "caption": "Bicep Curl",
+      "url": "https://static.toiimg.com/thumb/87087247.cms?width=400&height=300&resizemode=4&imgsize=27922",
+      "link": "https://www.youtube.com/embed/ykJmrZ5v0Oo"
+    },
+    {
+      "id": "6",
+      "caption": "Bench Press",
+      "url": "https://s3assets.skimble.com/assets/2289486/image_iphone.jpg",
+      "link": "https://www.youtube.com/embed/4Y2ZdHCOXok"
+    },
+    {
+      "id": "7",
+      "caption": "demo",
+      "url": "demo",
+      "link": "https://www.youtube.com/embed/nJCDM6tJd3Y"
+    },
+    {
+      "id": "8",
+      "caption": "demo",
+      "url": "demo",
+      "link": "https://www.youtube.com/embed/nJCDM6tJd3Y"
+    },
+    {
+      "id": "9",
+      "caption": "demo",
+      "url": "demo",
+      "link": "https://www.youtube.com/embed/nJCDM6tJd3Y"
+    },
+    {
+      "id": "10",
+      "caption": "demo",
+      "url": "demo",
+      "link": "https://www.youtube.com/embed/nJCDM6tJd3Y"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Push Up",
+      "link": "https://www.youtube.com/embed/IODxDxX7oi4",
+      "timeStamp": "01/08/2024, 10:24:10 PM",
+      "id": 1
+    },
+    {
+      "caption": "Pull Up",
+      "link": "https://www.youtube.com/embed/eGo4IYlbE5g",
+      "timeStamp": "01/08/2024, 10:24:15 PM",
+      "id": 2
+    },
+    {
+      "caption": "Sit Ups",
+      "link": "https://www.youtube.com/embed/jDwoBqPH0jk",
+      "timeStamp": "01/08/2024, 10:24:18 PM",
+      "id": 3
+    },
+    {
+      "caption": "Squats",
+      "link": "https://www.youtube.com/embed/YaXPRqUwItQ",
+      "timeStamp": "01/08/2024, 10:24:21 PM",
+      "id": 4
+    }
+  ]
+}
